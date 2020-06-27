@@ -6,7 +6,7 @@ Inspired by [this](https://www.udemy.com/course/docker-and-kubernetes-the-comple
 
 ## Run Locally
 
-Apply the K9 config files via kubectl:
+Apply the K8 config files via kubectl:
 
 ```bash
 kubectl apply -f k8s # apply all K8 config files within k8s director
